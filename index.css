@@ -1,0 +1,86 @@
+*{padding: 0px;
+    margin: 0px;
+
+}
+
+
+#form{
+    margin: auto;
+    background-color: rgb(127, 218, 0);
+    width: 650px;
+    padding: 50px;
+    border-radius: 5px;
+}
+.et{
+    /* margin-left: 17px; */
+    margin-bottom: 15px;/
+    
+}
+.fg{
+    margin-top: 15px;
+}
+.div{
+    border: 2px solid rgb(253, 253, 189);
+    border-radius: 5px;
+    padding: 15px;
+    background-color: rgb(175, 240, 47);
+    margin-bottom: 3px;
+}
+.ghgh{
+    height: 35px ;
+    width: 300px;
+    border: none;
+    border-radius: 5px;
+    margin-left: 100px;
+    padding-left: 15px;
+}
+.rrr{
+    width: 285px;
+    height: 80px ;
+    border: none;
+    border-radius: 5px;
+    margin-left: 88px;
+    
+    padding: 15px;
+}
+.fghh{
+    height: 110px;
+   
+}
+.hj{
+    margin-left: 75px;
+}
+.kl{
+    margin-left: 88px;
+}
+.wer{
+margin-top: 15px;
+margin-left: 60px;
+}
+.ter{
+    height: 16px;
+    width: 30px;
+    border: 1px solid;
+    border-radius: 5px;
+    
+}
+.tyui{
+    margin-left: 58px
+}
+.tyuki{
+    margin-left: 56px;
+}
+.tyutti{
+    margin-left: 53px;
+}
+#ertyyt{
+    height: 35px;
+    width: 120px;
+    font-size: 20px;
+    border-radius: 20px;
+    background-color: rgb(33, 22, 22);
+    color: white;
+    border: none;
+    margin-left: 260px;
+    margin-top: 10px;
+}
